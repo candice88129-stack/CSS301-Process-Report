@@ -140,6 +140,7 @@ Develop a resume that leads with project evidence and practical accomplishments 
 ### Network and apply for roles
 
 Attend career events, connect with utility engineers, and apply for distribution engineering positions. Use documented projects and internship experience to explain how technical knowledge translates into practical engineering work.
+Figure 1. Graduation preparation timeline, from early fundamentals to final employment preparation. 
 ![image alt](https://github.com/candice88129-stack/CSS301-Process-Report/blob/main/Multicolor%20corporate%20marketing%20and%20business%20strategy%20chart%20graphic.png)
 ## Conclusion
 
