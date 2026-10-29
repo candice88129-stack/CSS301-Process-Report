@@ -1,73 +1,171 @@
-**Graduation Plan for a Career as a Distribution Engineer**
+# Graduation Learning Plan for a Distribution Engineer
 
-**Prepared for: Husky student pursuing a job as a distribution engineer**
+A three-stage roadmap for developing the technical knowledge, practical experience, and professional preparation needed to pursue a distribution engineering career.
 
-Prepared by: Candice Lyu
+**Prepared by:** Candice Lyu  
+**Prepared for:** A Husky student pursuing a career as a distribution engineer  
+**Original plan date:** October 27, 2026
 
-Date: October 27, 2026
+## Contents
 
-© Image from Everything PE (everythingpe.com)
+- [Purpose](#purpose)
+- [Stage 1: Build Technical Knowledge](#stage-1-build-technical-knowledge)
+- [Stage 2: Gain Practical Experience](#stage-2-gain-practical-experience)
+- [Graduation Preparation Timeline](#graduation-preparation-timeline)
+- [Stage 3: Prepare for Professional Employment](#stage-3-prepare-for-professional-employment)
+- [Conclusion](#conclusion)
+- [References](#references)
 
-**Table of Contents**
+## Purpose
 
-**Purpose**
+Distribution engineers help keep electricity flowing from substations to homes, schools, and businesses. Their work combines engineering calculations, safety requirements, design tools, and field judgment. A successful design must meet applicable rules, account for faults, and communicate clearly to the crews responsible for construction.
 
-**Build Technical Knowledge**
+This plan organizes preparation before graduation into three connected stages:
 
-**Gain Practical Experience**
+1. **Build technical knowledge** through electrical engineering fundamentals, safety codes, design tools, and calculations.
+2. **Gain practical experience** through utility internships, field observations, and collaboration.
+3. **Prepare for professional employment** through FE exam preparation, experience documentation, a resume, networking, and job applications.
 
-**Prepare for Professional Employment**
+## Stage 1: Build Technical Knowledge
 
-**Conclusion**
+### Learn electrical engineering fundamentals
 
-**References**
+Develop a foundation in circuits, power systems, and distribution networks through electrical engineering coursework [5](#ref-5). Focus on understanding:
 
-**Purpose**
+- Power flow through a distribution network.
+- Voltage drop along a feeder.
+- Protective-device behavior during faults.
 
-Distribution engineers keep electricity flowing from substations to homes, schools, and businesses. The work blends code, calculation, and field judgment: a design must satisfy safety rules, survive a fault, and make sense to the crew that builds it. This plan lays out how you build that mix before graduation, in three stages: technical knowledge, practical experience, and professional preparation, mapped in Figure 1. This plan shows you how to graduate with the knowledge, experience, and credentials a distribution engineering job asks for.
+These principles provide the basis for sound distribution design decisions.
 
-**Build Technical Knowledge**
+### Study the National Electrical Safety Code
 
-You start with the electrical engineering fundamentals behind every distribution design: circuits, power systems, and distribution networks [5]. You learn how power flows, how voltage drops along a feeder, and how protection devices respond to faults, because every design choice traces back to those behaviors.
+Study the **National Electrical Safety Code (NESC)** alongside coursework [1](#ref-1). Connect its requirements to real equipment and construction conditions, especially:
 
-You learn the National Electrical Safety Code (NESC) [1] next, because utilities check designs against it. The NESC sets out the rules for clearances, structural loading, and construction, so a design that ignores it does not reach the field. You study the code alongside your coursework and treat each rule as a constraint on real hardware.
+- Electrical clearances.
+- Structural loading.
+- Construction requirements.
 
-You build fluency in the tools that carry a design from idea to construction: CAD software such as AutoCAD or MicroStation for drawings, and GIS platforms such as ArcGIS or Small world for mapping the network. A design you cannot draw clearly and locate precisely is not a design a crew can build.
+Treat safety rules as design constraints that must be considered throughout the work.
 
-You build the calculation set reviewers actually check pole loading and guying, conductor sag and tension, voltage drop, fault current, and protective-device coordination. These numbers decide whether a pole stands; a conductor stays within clearance, and a fault clears without an outage. You practice them until each result comes with a reason.
+### Develop design and mapping skills
 
-**Gain Practical Experience**
+Build fluency in tools that carry a design from concept to construction:
 
-You test classroom work against field conditions through internships with electric utilities. Snohomish County PUD and Seattle City Light both run college internship programs [2], [3], and a summer internship runs about three months at 40 hours a week [3]. You apply early, because summer postings open months before the work starts.
+| Tool category | Examples | Application |
+| --- | --- | --- |
+| Computer-aided design (CAD) | AutoCAD, MicroStation | Produce clear engineering and construction drawings. |
+| Geographic information systems (GIS) | ArcGIS, Smallworld | Map and locate distribution network assets accurately. |
 
-On site, you join walkdowns and pole inspections, support construction packages, and follow outage root-cause work. Field conditions differ from drawings, and you learn to record each difference and feed it back into the design. You coordinate with field crews, municipalities, and customers, because a distribution design moves only when everyone involved agrees on what gets built.
+### Practice core engineering calculations
 
-You practice explaining technical ideas in plain language, in writing, and in person. A design review is also a conversation, and an engineer who cannot explain a decision cannot defend it.
-*Figure 1. Graduation preparation timeline, from early fundamentals to final employment preparation.*
+Develop the ability to perform and explain:
 
-Figure 1 maps the three stages across four phases, from early fundamentals to final employment preparation. The summer internship appears as a standalone full-time block, not stacked under a summer course load, because a 40-hour week leaves no room for full-time study. You read the timeline left to right and check each phase against the stage you stand in.
+- Pole loading and guying.
+- Conductor sag and tension.
+- Voltage drop.
+- Fault current.
+- Protective-device coordination.
 
-**Prepare for Professional Employment**
+Use these calculations to assess structural performance, conductor clearance, and fault protection. Practice explaining the reasoning behind each result, not just reporting a number.
 
-You prepare for the Fundamentals of Engineering (FE) exam [4], the first step toward Professional Engineer licensure. The exam runs year-round at approved test centers, and a pass earns you the Engineer-in-Training credential. You schedule preparation alongside your final courses, because the exam tests the same fundamentals your degree covers.
+## Stage 2: Gain Practical Experience
 
-You keep a record of qualifying work from internships and projects, with dates, duties, and results. Licensure counts experience only when you document it, and a record built at the time stays accurate in a way a reconstructed one does not.
+### Pursue utility internships
 
-You build your resume from that record, leading with project evidence rather than a list of courses. You attend career events and connect with utility engineers, and you apply distribution engineering roles with a portfolio that shows code knowledge, calculation skill, and field experience together.
+Apply for internships with electric utilities to connect classroom learning with field conditions. The original plan identifies **Snohomish County PUD** [2](#ref-2) and **Seattle City Light** [3](#ref-3) as organizations with college internship programs.
 
-**Conclusion**
+The plan describes a summer internship as approximately **three months at 40 hours per week** [3](#ref-3). Apply early because summer opportunities may be posted months before the work begins.
 
-Each stage feeds the next: knowledge gives your calculations a basis, experience tests that basis in the field, and credentials turn both into a record employers trust. You graduate with more than a degree. You graduate with a plan already carried out, and the evidence to show for it.
-## **References**
-[1] IEEE, *2023 National Electrical Safety Code (NESC)*, IEEE Std C2-2023. New York, NY, USA: IEEE, 2022.
+### Participate in fieldwork and observations
 
-[2] Snohomish County PUD, "Careers at Snohomish County PUD – Frequently Asked Questions," *careers.snopud.com*, n.d. [Online]. Available: [https://careers.snopud.com/content/FAQ/?locale=en_US](https://careers.snopud.com/content/FAQ/?locale=en_US). [Accessed Oct. 26, 2026].
+During an internship or relevant project:
 
-[3] Seattle City Light, "College Internships at Seattle City Light," *seattle.gov*, n.d. [Online]. Available: [https://www.seattle.gov/city-light/about-us/careers/internships/college-internships](https://www.seattle.gov/city-light/about-us/careers/internships/college-internships). [Accessed Oct. 26, 2026].
+- Join site walkdowns and pole inspections.
+- Support construction packages.
+- Follow outage root-cause investigations.
+- Record differences between drawings and actual field conditions.
+- Use field observations to inform design revisions.
 
-[4] NCEES, "FE Exam," *ncees.org*, n.d. [Online]. Available: [https://ncees.org/exams/fe-exam/](https://ncees.org/exams/fe-exam/). [Accessed Oct. 26, 2026].
+### Build coordination and communication skills
 
-[5] University of Washington Bothell, "Electrical Engineering," *uwb.edu*, n.d. [Online]. Available: [https://www.uwb.edu/stem/undergraduate/majors/electrical](https://www.uwb.edu/stem/undergraduate/majors/electrical). [Accessed Oct. 26, 2026].
+Work with field crews, municipalities, and customers to understand construction requirements and resolve practical constraints. Practice explaining technical decisions in plain language, both in writing and in person.
 
-[word count: 684]
+A design review requires more than calculations: it also requires a clear explanation of why a decision is appropriate.
 
+## Graduation Preparation Timeline
+
+**Technical knowledge → Practical experience → Professional employment preparation**
+
+The source describes preparation across four phases, progressing from early fundamentals to final employment preparation. The table below expresses that timeline concept as a flexible sequence; it does not assign academic terms or calendar dates that the source does not specify.
+
+| Phase | Main focus | Key activities |
+| --- | --- | --- |
+| 1. Early fundamentals | Stage 1: Build technical knowledge | Study circuits, power systems, and distribution networks; begin learning the NESC. |
+| 2. Applied preparation | Stage 1, with preparation for Stage 2 | Practice CAD, GIS, and engineering calculations; apply early for summer internships. |
+| 3. Dedicated summer internship | Stage 2: Gain practical experience | Complete a standalone full-time internship; participate in fieldwork, construction support, and coordination. |
+| 4. Final courses and employment preparation | Stage 3: Prepare for professional employment | Prepare for the FE exam, organize experience records, develop a resume and portfolio, network, and apply for roles. |
+
+**Workload principle:** Keep the full-time summer internship as a dedicated block rather than combining a 40-hour workweek with a full-time summer course load.
+
+Maintain project and internship records as experience occurs, even though those records become a central part of Stage 3.
+
+## Stage 3: Prepare for Professional Employment
+
+### Prepare for the FE exam
+
+Prepare for the **Fundamentals of Engineering (FE) exam**, an early step on the path toward Professional Engineer licensure [4](#ref-4). Coordinate preparation with final courses so that review reinforces the engineering fundamentals covered in the degree.
+
+The source describes year-round testing at approved test centers and connects the exam to the Engineer-in-Training (EIT) credential. Treat passing the FE exam as a step toward EIT certification; certification and qualifying-experience requirements depend on the relevant licensing board.
+
+### Document engineering experience
+
+Keep a contemporaneous record of internships and projects, including:
+
+- Dates and duration.
+- Duties and responsibilities.
+- Work performed and results achieved.
+
+These records support resume development and future assessment of qualifying experience for licensure. Recording details as work occurs is more reliable than reconstructing them later.
+
+### Build a professional resume and portfolio
+
+Develop a resume that leads with project evidence and practical accomplishments rather than only listing courses. Prepare a portfolio that brings together:
+
+- Safety-code knowledge.
+- Engineering calculations and technical reasoning.
+- Design and mapping skills.
+- Field experience and communication skills.
+
+### Network and apply for roles
+
+Attend career events, connect with utility engineers, and apply for distribution engineering positions. Use documented projects and internship experience to explain how technical knowledge translates into practical engineering work.
+
+## Conclusion
+
+Each stage supports the next. Technical knowledge gives calculations a foundation; practical experience tests that foundation in the field; and professional preparation turns both into evidence that employers can assess.
+
+The goal is to graduate with a degree, a completed preparation plan, and a clear record of the knowledge, experience, and skills developed along the way.
+
+## References
+
+The following references and access dates are retained from the original plan. Internship details reflect that source rather than a live listing of current openings.
+
+<a id="ref-1"></a>
+**[1]** IEEE, *2023 National Electrical Safety Code (NESC)*, IEEE Std C2-2023. New York, NY, USA: IEEE, 2022.
+
+<a id="ref-2"></a>
+**[2]** Snohomish County PUD, “Careers at Snohomish County PUD – Frequently Asked Questions,” *careers.snopud.com*, n.d. [Online]. Available: [Careers FAQ](https://careers.snopud.com/content/FAQ/?locale=en_US). Accessed October 26, 2026.
+
+<a id="ref-3"></a>
+**[3]** Seattle City Light, “College Internships at Seattle City Light,” *seattle.gov*, n.d. [Online]. Available: [College Internships](https://www.seattle.gov/city-light/about-us/careers/internships/college-internships). Accessed October 26, 2026.
+
+<a id="ref-4"></a>
+**[4]** NCEES, “FE Exam,” *ncees.org*, n.d. [Online]. Available: [FE Exam](https://ncees.org/exams/fe-exam/). Accessed October 26, 2026.
+
+<a id="ref-5"></a>
+**[5]** University of Washington Bothell, “Electrical Engineering,” *uwb.edu*, n.d. [Online]. Available: [Electrical Engineering](https://www.uwb.edu/stem/undergraduate/majors/electrical). Accessed October 26, 2026.
+
+---
+
+*Adapted from the five-page “Graduation Learning Plan for a Distribution Engineer.pdf.” The original cover credits an image to Everything PE (everythingpe.com); that image is not reproduced here.*
